@@ -1,0 +1,4 @@
+I am using nano 
+use ctrl + O to save
+ctrl + X to exit
+
